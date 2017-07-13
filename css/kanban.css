@@ -1,0 +1,61 @@
+/*____________Header___________*/
+
+.navbar {
+    background: #cccccc;
+    height:100%;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    border-bottom: 2px solid #9d9d9d;
+}
+
+.navbar-brand {
+    margin: 0;
+    padding: 0;
+    height: 117px;
+}
+
+#brandMy img{
+    width: 300px;
+    height: 116px;
+    margin: 0 auto;
+    padding:0;
+}
+
+.addItem {
+    text-align: center;
+    margin-top: 33px;
+}
+
+
+/*____________Container___________*/
+
+
+
+.titleBoard{
+    height: 100%;
+    /*border: 1px solid #adadad;*/
+    border-radius: 5px;
+    text-align: center;
+}
+
+.itemDo {
+    border: 1px solid #adadad;
+    width: 100%;
+    min-height: 100px;
+    color: #000;
+    font-style: italic;
+    font-family: "Calibri Light", Arial, sans-serif;
+    margin: 20px auto;
+}
+
+
+
+
+
+
+/*___________________________________*/
+
+[ng\:cloak], [ng-cloak], .ng-cloak {
+    display: none;
+}
